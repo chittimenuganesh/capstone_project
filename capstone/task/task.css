@@ -1,0 +1,289 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+#a{
+	height: 4310px;
+	width: 1100px;
+	background-color: whitesmoke;
+	margin-left: 200px;
+	
+}
+#b{
+	height: 600px;
+	width: 1100px;
+}
+#aa{
+	margin-top:50px ;
+	margin-left:100px ;
+	height: 500px;
+	width:  400px;
+	float: left;
+	padding-top: 100px;
+}
+.p1{
+	text-align: right;
+	font-size: 50px;
+	display: inline;
+	color: yellow;
+}
+.p2{
+	
+	display: inline;
+	color: whitesmoke;
+}
+.p3{
+	 cursor: pointer;
+	 text-align: center;
+	 font-size: 15px;
+	 margin-top: 20px;
+	 border: 1px solid black;
+}
+#ab{
+	margin-left: 10px;
+	margin-top:50px ;
+	height: 500px;
+	width:  460px;
+	float: left;
+}
+p{
+	text-align: justify;
+	font-size: 20px;
+
+}
+img{
+	height: 500px;
+	width:  460px;
+}
+#ac{
+	margin-top: 50px;
+	height:200px ;
+	width: 1100;
+	padding-bottom: 10px;
+	background-color: gold;
+}
+.b1{
+	margin-left: 100px;
+	height: 200px;
+	width: 210px;
+	position: relative;
+	background-color: white;
+	float: left;
+	bottom: 10px;
+}
+.b2{
+	height: 200px;
+	width: 210px;
+	position: relative;
+	background-color: white;
+	margin-left: 10px;
+	float: left;
+	bottom: 10px;
+}
+span{
+	font-size: 40px;
+	margin-left: 80px;
+	
+}
+.p3{
+	text-align: center;
+	border-style: none;
+	color: yellow;
+	font-size: 30px;
+}
+#ad{
+	margin-top: 10px;
+	height: 200px;
+	width: 1100px;
+	background-color: whitesmoke;
+}
+.p4{
+	text-align: center;
+	border-style: none;
+	font-size: 30px;
+	padding-bottom: 20px;
+
+}
+#ad1{
+	padding-bottom: 20px;
+	height: 220px;
+	width: 650px;
+	margin-left: 220px;
+	text-align: center;
+}
+#ae{
+	height: 600px;
+	width: 1100px;
+}
+.pc{
+
+	height: 600px;
+	width: 1040px;
+	margin: 0px 30px;
+
+}
+#af{
+	margin: 0px 30px;
+	height: 600px;
+	width: 1040px;
+	background-image: url("image/i4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-left: 50px;
+}
+#c1{
+	margin-top: 40px;
+	margin-left: 50px;
+	height: 310px;
+	width: 250px;
+	background-color: white;
+	float: left;
+}
+.r1{
+	margin: 20px 45px;
+	height: 150px;
+	width: 150px;
+}
+.d{
+	text-align: center;
+	border-style: none;
+	color: gold;
+}
+#s{
+	height: 800px;
+	width: 1040;
+	margin: 0px 30px;
+	background-color: black;
+}
+.p5{
+	position: relative;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+.p6{
+	color: white;
+	text-align: center;
+	
+}
+#s1{
+	height: 200px;
+	width: 300px;
+	margin-left: 70px;
+	float: left;
+	margin-top: 100px;
+}
+#s2{
+	height: 200px;
+	width: 300px;
+
+	margin-left:10px;
+	float:left;
+		margin-top: 100px;
+}
+.e{
+	margin-bottom: 20px;
+	color: yellow;
+	text-align: justify;
+}
+.p9{
+	font-size: 20px;
+	margin-top: 50px;
+	margin-left: 500px;
+	color: blue;
+	border: 1px solid yellow;
+	cursor: pointer;
+}
+#d{
+	height: 600px;
+	width: 1040;
+	margin: 0px 30px;
+	background-color: white;
+}
+#d1{
+	height: 600px;
+	width: 520px;
+	background-color: lightgray;
+	padding-top: 150px;
+}
+#d2{
+	margin-left: 100px;
+	height: 300px;
+	width: 500px;
+	background-color: yellow;
+	box-sizing: border-box;
+	position: relative;
+}
+.d3{
+	height: 300px;
+	width: 500px;
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+}
+#d4{
+	
+	height: 300px;
+	width: 300px;
+	position: relative;
+	float: right;
+	right: 20px;
+	top:100px ;
+}
+.p10{
+	margin-left: 120px;
+	margin-top: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
+#e{
+	height: 600px;
+	width: 1040px;
+	margin: 0px 30px;
+	background-color: black;
+
+}
+#e1{
+	margin-top: 100px;
+	margin-right: 20px;
+	height: 400px;
+	width: 600px;
+	background-color: white;
+	float: right;
+	box-sizing: border-box;
+	background-image: url("image/i3.avif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#e2{
+	
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	position: relative;
+	right: 100px;
+	top: 50px;
+
+}
+#aaa{
+	height: 200ppx;
+	width: 1040px;
+	background-color: black;
+	margin: 0px 30px;
+
+}
+.g{
+	margin-top: 1px;
+ color: white;
+ text-align: center;
+}
+
+.i{
+	color: white;
+}
+u{
+	color: yellow;
+	cursor: pointer;
+}
